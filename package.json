@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_project1",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaS2311/Nodejs_project1.git"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaS2311/Nodejs_project1/issues"
+  },
+  "homepage": "https://github.com/NikitaS2311/Nodejs_project1#readme",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
